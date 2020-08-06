@@ -45,8 +45,7 @@ conference:
   instance: 
   styling: Workshop on
   dates:
-  - 1985-04-01
-  - 1985-04-01
+  - 1985-04
   chairs:
   - type: Chair
     people:
