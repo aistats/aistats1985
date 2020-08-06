@@ -35,7 +35,7 @@ conference:
     url: https://books.google.com/books/about/Artificial_Intelligence_and_Statistics.html?id=CVRQAAAAMAAJ
     show: true
   room: 
-  venue: 
+  venue:  
   venue_url: 
   location: 
   full_name: Artificial Intelligence and Statistics
@@ -45,7 +45,7 @@ conference:
   instance: 
   styling: Workshop on
   dates:
-  - 1985-04
+  - 1985-04-01
   chairs:
   - type: Chair
     people:
