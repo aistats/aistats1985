@@ -23,7 +23,6 @@ ghub:
   repository: aistats1985
 
 banner: 
-banner_title: AI & Statistics 1985
 
 # Build settings
 markdown: kramdown
