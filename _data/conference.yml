@@ -7,7 +7,7 @@ proceedings:
 room: 
 venue:  
 venue_url: 
-location: 
+location: Princeton, NJ, USA 
 full_name: Artificial Intelligence and Statistics
 short_name: AISTATS
 name: Artificial Intelligence and Statistics
@@ -15,7 +15,8 @@ year: 1985
 instance: 
 styling: Workshop on
 dates:
-- 1985-04-01
+- 1985-04-11
+- 1985-04-12
 chairs:
 - type: Chair
   people:
