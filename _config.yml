@@ -15,7 +15,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: aistats/jekyll-theme
 style: aistats
 
 ghub:
@@ -28,31 +28,6 @@ banner:
 markdown: kramdown
 
 conference:
-  draft: false # set to True if the programme is draft only.
-  image: 
-  hide_tentative: true
-  proceedings:
-    url: https://books.google.com/books/about/Artificial_Intelligence_and_Statistics.html?id=CVRQAAAAMAAJ
-    show: true
-  room: 
-  venue:  
-  venue_url: 
-  location: 
-  full_name: Artificial Intelligence and Statistics
-  short_name: AISTATS
-  name: Artificial Intelligence and Statistics
-  year: 1985
-  instance: 
-  styling: Workshop on
-  dates:
-  - 1985-04-01
-  chairs:
-  - type: Chair
-    people:
-    - family: Gale
-      given: William A.
-      institute: AT&T Bell Laboratories
-      url: 
 # change encoding for the generated output files to utf-8
 encoding: utf-8
 
